@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/bank316.iml" filepath="$PROJECT_DIR$/.idea/modules/bank316.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/bank316.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/bank316.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1471048678/bank316.react-native-community_masked-view.iml" filepath="$PROJECT_DIR$/.idea/modules/1471048678/bank316.react-native-community_masked-view.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/399701099/bank316.react-native-document-picker.iml" filepath="$PROJECT_DIR$/.idea/modules/399701099/bank316.react-native-document-picker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1495420849/bank316.react-native-gesture-handler.iml" filepath="$PROJECT_DIR$/.idea/modules/1495420849/bank316.react-native-gesture-handler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-213285941/bank316.react-native-reanimated.iml" filepath="$PROJECT_DIR$/.idea/modules/-213285941/bank316.react-native-reanimated.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1063239718/bank316.react-native-safe-area-context.iml" filepath="$PROJECT_DIR$/.idea/modules/-1063239718/bank316.react-native-safe-area-context.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1835612046/bank316.react-native-screens.iml" filepath="$PROJECT_DIR$/.idea/modules/-1835612046/bank316.react-native-screens.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1936525775/bank316.react-native-svg.iml" filepath="$PROJECT_DIR$/.idea/modules/1936525775/bank316.react-native-svg.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1369850395/react-native-gradle-plugin.iml" filepath="$PROJECT_DIR$/.idea/modules/1369850395/react-native-gradle-plugin.iml" />
+    </modules>
+  </component>
+</project>

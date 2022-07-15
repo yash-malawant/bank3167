@@ -1,0 +1,574 @@
+[
+    {
+        "merged": "/Users/apple/React-Native/bank316/android/app/build/intermediates/merged_res/release/raw_src_assets_images_dropdown.svg.flat",
+        "source": "/Users/apple/React-Native/bank316/android/app/build/generated/res/react/release/raw/src_assets_images_dropdown.svg"
+    },
+    {
+        "merged": "/Users/apple/React-Native/bank316/android/app/build/intermediates/merged_res/release/drawable-hdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "/Users/apple/React-Native/bank316/android/app/build/generated/res/react/release/drawable-hdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "/Users/apple/React-Native/bank316/android/app/build/intermediates/merged_res/release/drawable-mdpi_src_assets_images_beverly.png.flat",
+        "source": "/Users/apple/React-Native/bank316/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_images_beverly.png"
+    },
+    {
+        "merged": "/Users/apple/React-Native/bank316/android/app/build/intermediates/merged_res/release/raw_src_assets_images_chat_now.svg.flat",
+        "source": "/Users/apple/React-Native/bank316/android/app/build/generated/res/react/release/raw/src_assets_images_chat_now.svg"
+    },
+    {
+        "merged": "/Users/apple/React-Native/bank316/android/app/build/intermediates/merged_res/release/raw_src_assets_images_add_icon.svg.flat",
+        "source": "/Users/apple/React-Native/bank316/android/app/build/generated/res/react/release/raw/src_assets_images_add_icon.svg"
+    },
+    {
+        "merged": "/Users/apple/React-Native/bank316/android/app/build/intermediates/merged_res/release/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/Users/apple/React-Native/bank316/android/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/apple/React-Native/bank316/android/app/build/intermediates/merged_res/release/drawable-mdpi_src_assets_images_receiptitem.png.flat",
+        "source": "/Users/apple/React-Native/bank316/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_images_receiptitem.png"
+    },
+    {
+        "merged": "/Users/apple/React-Native/bank316/android/app/build/intermediates/merged_res/release/raw_src_assets_images_green_radio.svg.flat",
+        "source": "/Users/apple/React-Native/bank316/android/app/build/generated/res/react/release/raw/src_assets_images_green_radio.svg"
+    },
+    {
+        "merged": "/Users/apple/React-Native/bank316/android/app/build/intermediates/merged_res/release/drawable-mdpi_src_assets_images_red_envelop.png.flat",
+        "source": "/Users/apple/React-Native/bank316/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_images_red_envelop.png"
+    },
+    {
+        "merged": "/Users/apple/React-Native/bank316/android/app/build/intermediates/merged_res/release/raw_src_assets_images_call2.svg.flat",
+        "source": "/Users/apple/React-Native/bank316/android/app/build/generated/res/react/release/raw/src_assets_images_call2.svg"
+    },
+    {
+        "merged": "/Users/apple/React-Native/bank316/android/app/build/intermediates/merged_res/release/raw_src_assets_images_group_10140.svg.flat",
+        "source": "/Users/apple/React-Native/bank316/android/app/build/generated/res/react/release/raw/src_assets_images_group_10140.svg"
+    },
+    {
+        "merged": "/Users/apple/React-Native/bank316/android/app/build/intermediates/merged_res/release/raw_src_assets_images_pe.svg.flat",
+        "source": "/Users/apple/React-Native/bank316/android/app/build/generated/res/react/release/raw/src_assets_images_pe.svg"
+    },
+    {
+        "merged": "/Users/apple/React-Native/bank316/android/app/build/intermediates/merged_res/release/raw_src_assets_images_green_arrow.svg.flat",
+        "source": "/Users/apple/React-Native/bank316/android/app/build/generated/res/react/release/raw/src_assets_images_green_arrow.svg"
+    },
+    {
+        "merged": "/Users/apple/React-Native/bank316/android/app/build/intermediates/merged_res/release/raw_src_assets_images_greenatm.svg.flat",
+        "source": "/Users/apple/React-Native/bank316/android/app/build/generated/res/react/release/raw/src_assets_images_greenatm.svg"
+    },
+    {
+        "merged": "/Users/apple/React-Native/bank316/android/app/build/intermediates/merged_res/release/raw_src_assets_images_claim_reward.svg.flat",
+        "source": "/Users/apple/React-Native/bank316/android/app/build/generated/res/react/release/raw/src_assets_images_claim_reward.svg"
+    },
+    {
+        "merged": "/Users/apple/React-Native/bank316/android/app/build/intermediates/merged_res/release/raw_src_assets_images_group_720_7.svg.flat",
+        "source": "/Users/apple/React-Native/bank316/android/app/build/generated/res/react/release/raw/src_assets_images_group_720_7.svg"
+    },
+    {
+        "merged": "/Users/apple/React-Native/bank316/android/app/build/intermediates/merged_res/release/drawable-mdpi_src_assets_images_transfer_receipt.png.flat",
+        "source": "/Users/apple/React-Native/bank316/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_images_transfer_receipt.png"
+    },
+    {
+        "merged": "/Users/apple/React-Native/bank316/android/app/build/intermediates/merged_res/release/drawable-mdpi_src_assets_images_emptywallet.png.flat",
+        "source": "/Users/apple/React-Native/bank316/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_images_emptywallet.png"
+    },
+    {
+        "merged": "/Users/apple/React-Native/bank316/android/app/build/intermediates/merged_res/release/drawable-mdpi_src_assets_images_red_circle.png.flat",
+        "source": "/Users/apple/React-Native/bank316/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_images_red_circle.png"
+    },
+    {
+        "merged": "/Users/apple/React-Native/bank316/android/app/build/intermediates/merged_res/release/raw_src_assets_images_green_add.svg.flat",
+        "source": "/Users/apple/React-Native/bank316/android/app/build/generated/res/react/release/raw/src_assets_images_green_add.svg"
+    },
+    {
+        "merged": "/Users/apple/React-Native/bank316/android/app/build/intermediates/merged_res/release/drawable-mdpi_src_assets_images_jacob.png.flat",
+        "source": "/Users/apple/React-Native/bank316/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_images_jacob.png"
+    },
+    {
+        "merged": "/Users/apple/React-Native/bank316/android/app/build/intermediates/merged_res/release/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/Users/apple/React-Native/bank316/android/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/apple/React-Native/bank316/android/app/build/intermediates/merged_res/release/drawable-mdpi_src_assets_images_down_arrow.png.flat",
+        "source": "/Users/apple/React-Native/bank316/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_images_down_arrow.png"
+    },
+    {
+        "merged": "/Users/apple/React-Native/bank316/android/app/build/intermediates/merged_res/release/drawable-mdpi_src_assets_images_kitty_kids.png.flat",
+        "source": "/Users/apple/React-Native/bank316/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_images_kitty_kids.png"
+    },
+    {
+        "merged": "/Users/apple/React-Native/bank316/android/app/build/intermediates/merged_res/release/raw_src_assets_images_group_6.svg.flat",
+        "source": "/Users/apple/React-Native/bank316/android/app/build/generated/res/react/release/raw/src_assets_images_group_6.svg"
+    },
+    {
+        "merged": "/Users/apple/React-Native/bank316/android/app/build/intermediates/merged_res/release/raw_src_assets_images_profile.svg.flat",
+        "source": "/Users/apple/React-Native/bank316/android/app/build/generated/res/react/release/raw/src_assets_images_profile.svg"
+    },
+    {
+        "merged": "/Users/apple/React-Native/bank316/android/app/build/intermediates/merged_res/release/drawable-mdpi_src_assets_images_group_684.png.flat",
+        "source": "/Users/apple/React-Native/bank316/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_images_group_684.png"
+    },
+    {
+        "merged": "/Users/apple/React-Native/bank316/android/app/build/intermediates/merged_res/release/drawable-mdpi_src_assets_images_samantha.png.flat",
+        "source": "/Users/apple/React-Native/bank316/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_images_samantha.png"
+    },
+    {
+        "merged": "/Users/apple/React-Native/bank316/android/app/build/intermediates/merged_res/release/raw_src_assets_images_group_720_1.svg.flat",
+        "source": "/Users/apple/React-Native/bank316/android/app/build/generated/res/react/release/raw/src_assets_images_group_720_1.svg"
+    },
+    {
+        "merged": "/Users/apple/React-Native/bank316/android/app/build/intermediates/merged_res/release/raw_src_assets_images_invest_yearly.svg.flat",
+        "source": "/Users/apple/React-Native/bank316/android/app/build/generated/res/react/release/raw/src_assets_images_invest_yearly.svg"
+    },
+    {
+        "merged": "/Users/apple/React-Native/bank316/android/app/build/intermediates/merged_res/release/raw_src_assets_images_home_2.svg.flat",
+        "source": "/Users/apple/React-Native/bank316/android/app/build/generated/res/react/release/raw/src_assets_images_home_2.svg"
+    },
+    {
+        "merged": "/Users/apple/React-Native/bank316/android/app/build/intermediates/merged_res/release/raw_src_assets_images_modal_down_arrow.svg.flat",
+        "source": "/Users/apple/React-Native/bank316/android/app/build/generated/res/react/release/raw/src_assets_images_modal_down_arrow.svg"
+    },
+    {
+        "merged": "/Users/apple/React-Native/bank316/android/app/build/intermediates/merged_res/release/raw_src_assets_images_pound.svg.flat",
+        "source": "/Users/apple/React-Native/bank316/android/app/build/generated/res/react/release/raw/src_assets_images_pound.svg"
+    },
+    {
+        "merged": "/Users/apple/React-Native/bank316/android/app/build/intermediates/merged_res/release/raw_src_assets_images_income.svg.flat",
+        "source": "/Users/apple/React-Native/bank316/android/app/build/generated/res/react/release/raw/src_assets_images_income.svg"
+    },
+    {
+        "merged": "/Users/apple/React-Native/bank316/android/app/build/intermediates/merged_res/release/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/apple/React-Native/bank316/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/apple/React-Native/bank316/android/app/build/intermediates/merged_res/release/raw_src_assets_images_referal.svg.flat",
+        "source": "/Users/apple/React-Native/bank316/android/app/build/generated/res/react/release/raw/src_assets_images_referal.svg"
+    },
+    {
+        "merged": "/Users/apple/React-Native/bank316/android/app/build/intermediates/merged_res/release/raw_src_assets_images_return.svg.flat",
+        "source": "/Users/apple/React-Native/bank316/android/app/build/generated/res/react/release/raw/src_assets_images_return.svg"
+    },
+    {
+        "merged": "/Users/apple/React-Native/bank316/android/app/build/intermediates/merged_res/release/raw_src_assets_images_trash.svg.flat",
+        "source": "/Users/apple/React-Native/bank316/android/app/build/generated/res/react/release/raw/src_assets_images_trash.svg"
+    },
+    {
+        "merged": "/Users/apple/React-Native/bank316/android/app/build/intermediates/merged_res/release/drawable-mdpi_src_assets_images_mask_group.png.flat",
+        "source": "/Users/apple/React-Native/bank316/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_images_mask_group.png"
+    },
+    {
+        "merged": "/Users/apple/React-Native/bank316/android/app/build/intermediates/merged_res/release/raw_src_assets_images_316_rf.svg.flat",
+        "source": "/Users/apple/React-Native/bank316/android/app/build/generated/res/react/release/raw/src_assets_images_316_rf.svg"
+    },
+    {
+        "merged": "/Users/apple/React-Native/bank316/android/app/build/intermediates/merged_res/release/raw_src_assets_images_316_invest.svg.flat",
+        "source": "/Users/apple/React-Native/bank316/android/app/build/generated/res/react/release/raw/src_assets_images_316_invest.svg"
+    },
+    {
+        "merged": "/Users/apple/React-Native/bank316/android/app/build/intermediates/merged_res/release/drawable-mdpi_src_assets_images_316_payment.png.flat",
+        "source": "/Users/apple/React-Native/bank316/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_images_316_payment.png"
+    },
+    {
+        "merged": "/Users/apple/React-Native/bank316/android/app/build/intermediates/merged_res/release/drawable-mdpi_src_assets_images_star.png.flat",
+        "source": "/Users/apple/React-Native/bank316/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_images_star.png"
+    },
+    {
+        "merged": "/Users/apple/React-Native/bank316/android/app/build/intermediates/merged_res/release/drawable-xhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "/Users/apple/React-Native/bank316/android/app/build/generated/res/react/release/drawable-xhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "/Users/apple/React-Native/bank316/android/app/build/intermediates/merged_res/release/raw_src_assets_images_cardadd.svg.flat",
+        "source": "/Users/apple/React-Native/bank316/android/app/build/generated/res/react/release/raw/src_assets_images_cardadd.svg"
+    },
+    {
+        "merged": "/Users/apple/React-Native/bank316/android/app/build/intermediates/merged_res/release/raw_src_assets_images_indflag.svg.flat",
+        "source": "/Users/apple/React-Native/bank316/android/app/build/generated/res/react/release/raw/src_assets_images_indflag.svg"
+    },
+    {
+        "merged": "/Users/apple/React-Native/bank316/android/app/build/intermediates/merged_res/release/raw_src_assets_images_box.svg.flat",
+        "source": "/Users/apple/React-Native/bank316/android/app/build/generated/res/react/release/raw/src_assets_images_box.svg"
+    },
+    {
+        "merged": "/Users/apple/React-Native/bank316/android/app/build/intermediates/merged_res/release/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/apple/React-Native/bank316/android/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/apple/React-Native/bank316/android/app/build/intermediates/merged_res/release/drawable-mdpi_src_assets_images_edw.png.flat",
+        "source": "/Users/apple/React-Native/bank316/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_images_edw.png"
+    },
+    {
+        "merged": "/Users/apple/React-Native/bank316/android/app/build/intermediates/merged_res/release/drawable-mdpi_src_assets_images_login.png.flat",
+        "source": "/Users/apple/React-Native/bank316/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_images_login.png"
+    },
+    {
+        "merged": "/Users/apple/React-Native/bank316/android/app/build/intermediates/merged_res/release/raw_src_assets_images_home.svg.flat",
+        "source": "/Users/apple/React-Native/bank316/android/app/build/generated/res/react/release/raw/src_assets_images_home.svg"
+    },
+    {
+        "merged": "/Users/apple/React-Native/bank316/android/app/build/intermediates/merged_res/release/drawable-mdpi_src_assets_images_home.png.flat",
+        "source": "/Users/apple/React-Native/bank316/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_images_home.png"
+    },
+    {
+        "merged": "/Users/apple/React-Native/bank316/android/app/build/intermediates/merged_res/release/drawable-mdpi_src_assets_images_black_lock.png.flat",
+        "source": "/Users/apple/React-Native/bank316/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_images_black_lock.png"
+    },
+    {
+        "merged": "/Users/apple/React-Native/bank316/android/app/build/intermediates/merged_res/release/drawable-mdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "/Users/apple/React-Native/bank316/android/app/build/generated/res/react/release/drawable-mdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "/Users/apple/React-Native/bank316/android/app/build/intermediates/merged_res/release/raw_src_assets_images_searchnormal.svg.flat",
+        "source": "/Users/apple/React-Native/bank316/android/app/build/generated/res/react/release/raw/src_assets_images_searchnormal.svg"
+    },
+    {
+        "merged": "/Users/apple/React-Native/bank316/android/app/build/intermediates/merged_res/release/raw_src_assets_images_group_720_6.svg.flat",
+        "source": "/Users/apple/React-Native/bank316/android/app/build/generated/res/react/release/raw/src_assets_images_group_720_6.svg"
+    },
+    {
+        "merged": "/Users/apple/React-Native/bank316/android/app/build/intermediates/merged_res/release/drawable-mdpi_src_assets_images_pp.png.flat",
+        "source": "/Users/apple/React-Native/bank316/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_images_pp.png"
+    },
+    {
+        "merged": "/Users/apple/React-Native/bank316/android/app/build/intermediates/merged_res/release/raw_src_assets_images_scan.svg.flat",
+        "source": "/Users/apple/React-Native/bank316/android/app/build/generated/res/react/release/raw/src_assets_images_scan.svg"
+    },
+    {
+        "merged": "/Users/apple/React-Native/bank316/android/app/build/intermediates/merged_res/release/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/apple/React-Native/bank316/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/apple/React-Native/bank316/android/app/build/intermediates/merged_res/release/raw_src_assets_images_group_720_3.svg.flat",
+        "source": "/Users/apple/React-Native/bank316/android/app/build/generated/res/react/release/raw/src_assets_images_group_720_3.svg"
+    },
+    {
+        "merged": "/Users/apple/React-Native/bank316/android/app/build/intermediates/merged_res/release/drawable-mdpi_src_assets_images_ellipse_1.png.flat",
+        "source": "/Users/apple/React-Native/bank316/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_images_ellipse_1.png"
+    },
+    {
+        "merged": "/Users/apple/React-Native/bank316/android/app/build/intermediates/merged_res/release/raw_src_assets_images_import.svg.flat",
+        "source": "/Users/apple/React-Native/bank316/android/app/build/generated/res/react/release/raw/src_assets_images_import.svg"
+    },
+    {
+        "merged": "/Users/apple/React-Native/bank316/android/app/build/intermediates/merged_res/release/drawable-mdpi_src_assets_images_earning_amazon.png.flat",
+        "source": "/Users/apple/React-Native/bank316/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_images_earning_amazon.png"
+    },
+    {
+        "merged": "/Users/apple/React-Native/bank316/android/app/build/intermediates/merged_res/release/drawable-mdpi_src_assets_images_edw2.png.flat",
+        "source": "/Users/apple/React-Native/bank316/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_images_edw2.png"
+    },
+    {
+        "merged": "/Users/apple/React-Native/bank316/android/app/build/intermediates/merged_res/release/raw_src_assets_images_reports.svg.flat",
+        "source": "/Users/apple/React-Native/bank316/android/app/build/generated/res/react/release/raw/src_assets_images_reports.svg"
+    },
+    {
+        "merged": "/Users/apple/React-Native/bank316/android/app/build/intermediates/merged_res/release/drawable-mdpi_src_assets_images_profile.png.flat",
+        "source": "/Users/apple/React-Native/bank316/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_images_profile.png"
+    },
+    {
+        "merged": "/Users/apple/React-Native/bank316/android/app/build/intermediates/merged_res/release/raw_src_assets_images_vertical_dot.svg.flat",
+        "source": "/Users/apple/React-Native/bank316/android/app/build/generated/res/react/release/raw/src_assets_images_vertical_dot.svg"
+    },
+    {
+        "merged": "/Users/apple/React-Native/bank316/android/app/build/intermediates/merged_res/release/drawable-mdpi_src_assets_images_grocery.png.flat",
+        "source": "/Users/apple/React-Native/bank316/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_images_grocery.png"
+    },
+    {
+        "merged": "/Users/apple/React-Native/bank316/android/app/build/intermediates/merged_res/release/raw_src_assets_images_other.svg.flat",
+        "source": "/Users/apple/React-Native/bank316/android/app/build/generated/res/react/release/raw/src_assets_images_other.svg"
+    },
+    {
+        "merged": "/Users/apple/React-Native/bank316/android/app/build/intermediates/merged_res/release/drawable-mdpi_src_assets_images_eye.png.flat",
+        "source": "/Users/apple/React-Native/bank316/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_images_eye.png"
+    },
+    {
+        "merged": "/Users/apple/React-Native/bank316/android/app/build/intermediates/merged_res/release/raw_src_assets_images_shield.svg.flat",
+        "source": "/Users/apple/React-Native/bank316/android/app/build/generated/res/react/release/raw/src_assets_images_shield.svg"
+    },
+    {
+        "merged": "/Users/apple/React-Native/bank316/android/app/build/intermediates/merged_res/release/drawable-mdpi_src_assets_images_yellow_card.png.flat",
+        "source": "/Users/apple/React-Native/bank316/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_images_yellow_card.png"
+    },
+    {
+        "merged": "/Users/apple/React-Native/bank316/android/app/build/intermediates/merged_res/release/raw_src_assets_images_radio.svg.flat",
+        "source": "/Users/apple/React-Native/bank316/android/app/build/generated/res/react/release/raw/src_assets_images_radio.svg"
+    },
+    {
+        "merged": "/Users/apple/React-Native/bank316/android/app/build/intermediates/merged_res/release/raw_src_assets_images_notification.svg.flat",
+        "source": "/Users/apple/React-Native/bank316/android/app/build/generated/res/react/release/raw/src_assets_images_notification.svg"
+    },
+    {
+        "merged": "/Users/apple/React-Native/bank316/android/app/build/intermediates/merged_res/release/raw_src_assets_images_ticketstar.svg.flat",
+        "source": "/Users/apple/React-Native/bank316/android/app/build/generated/res/react/release/raw/src_assets_images_ticketstar.svg"
+    },
+    {
+        "merged": "/Users/apple/React-Native/bank316/android/app/build/intermediates/merged_res/release/drawable_rn_edit_text_material.xml.flat",
+        "source": "/Users/apple/React-Native/bank316/android/app/src/main/res/drawable/rn_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/apple/React-Native/bank316/android/app/build/intermediates/merged_res/release/drawable-mdpi_src_assets_images_find_it.png.flat",
+        "source": "/Users/apple/React-Native/bank316/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_images_find_it.png"
+    },
+    {
+        "merged": "/Users/apple/React-Native/bank316/android/app/build/intermediates/merged_res/release/raw_src_assets_images_request.svg.flat",
+        "source": "/Users/apple/React-Native/bank316/android/app/build/generated/res/react/release/raw/src_assets_images_request.svg"
+    },
+    {
+        "merged": "/Users/apple/React-Native/bank316/android/app/build/intermediates/merged_res/release/drawable-mdpi_src_assets_images_sun.png.flat",
+        "source": "/Users/apple/React-Native/bank316/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_images_sun.png"
+    },
+    {
+        "merged": "/Users/apple/React-Native/bank316/android/app/build/intermediates/merged_res/release/drawable-mdpi_src_assets_images_black_3x.png.flat",
+        "source": "/Users/apple/React-Native/bank316/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_images_black_3x.png"
+    },
+    {
+        "merged": "/Users/apple/React-Native/bank316/android/app/build/intermediates/merged_res/release/raw_src_assets_images_location.svg.flat",
+        "source": "/Users/apple/React-Native/bank316/android/app/build/generated/res/react/release/raw/src_assets_images_location.svg"
+    },
+    {
+        "merged": "/Users/apple/React-Native/bank316/android/app/build/intermediates/merged_res/release/raw_src_assets_images_logout.svg.flat",
+        "source": "/Users/apple/React-Native/bank316/android/app/build/generated/res/react/release/raw/src_assets_images_logout.svg"
+    },
+    {
+        "merged": "/Users/apple/React-Native/bank316/android/app/build/intermediates/merged_res/release/raw_src_assets_images_work.svg.flat",
+        "source": "/Users/apple/React-Native/bank316/android/app/build/generated/res/react/release/raw/src_assets_images_work.svg"
+    },
+    {
+        "merged": "/Users/apple/React-Native/bank316/android/app/build/intermediates/merged_res/release/drawable-xxxhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "/Users/apple/React-Native/bank316/android/app/build/generated/res/react/release/drawable-xxxhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "/Users/apple/React-Native/bank316/android/app/build/intermediates/merged_res/release/raw_src_assets_images_add_custom.svg.flat",
+        "source": "/Users/apple/React-Native/bank316/android/app/build/generated/res/react/release/raw/src_assets_images_add_custom.svg"
+    },
+    {
+        "merged": "/Users/apple/React-Native/bank316/android/app/build/intermediates/merged_res/release/drawable-mdpi_src_assets_images_light_3x.png.flat",
+        "source": "/Users/apple/React-Native/bank316/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_images_light_3x.png"
+    },
+    {
+        "merged": "/Users/apple/React-Native/bank316/android/app/build/intermediates/merged_res/release/raw_src_assets_images_add_wallet.svg.flat",
+        "source": "/Users/apple/React-Native/bank316/android/app/build/generated/res/react/release/raw/src_assets_images_add_wallet.svg"
+    },
+    {
+        "merged": "/Users/apple/React-Native/bank316/android/app/build/intermediates/merged_res/release/raw_src_assets_images_3m_6m.svg.flat",
+        "source": "/Users/apple/React-Native/bank316/android/app/build/generated/res/react/release/raw/src_assets_images_3m_6m.svg"
+    },
+    {
+        "merged": "/Users/apple/React-Native/bank316/android/app/build/intermediates/merged_res/release/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/Users/apple/React-Native/bank316/android/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/apple/React-Native/bank316/android/app/build/intermediates/merged_res/release/raw_src_assets_images_myplans.svg.flat",
+        "source": "/Users/apple/React-Native/bank316/android/app/build/generated/res/react/release/raw/src_assets_images_myplans.svg"
+    },
+    {
+        "merged": "/Users/apple/React-Native/bank316/android/app/build/intermediates/merged_res/release/drawable-mdpi_src_assets_images_back_arrow.png.flat",
+        "source": "/Users/apple/React-Native/bank316/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_images_back_arrow.png"
+    },
+    {
+        "merged": "/Users/apple/React-Native/bank316/android/app/build/intermediates/merged_res/release/raw_src_assets_images_line.svg.flat",
+        "source": "/Users/apple/React-Native/bank316/android/app/build/generated/res/react/release/raw/src_assets_images_line.svg"
+    },
+    {
+        "merged": "/Users/apple/React-Native/bank316/android/app/build/intermediates/merged_res/release/drawable-mdpi_src_assets_images_withdraw_summary.png.flat",
+        "source": "/Users/apple/React-Native/bank316/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_images_withdraw_summary.png"
+    },
+    {
+        "merged": "/Users/apple/React-Native/bank316/android/app/build/intermediates/merged_res/release/drawable-mdpi_src_assets_images_green_3x.png.flat",
+        "source": "/Users/apple/React-Native/bank316/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_images_green_3x.png"
+    },
+    {
+        "merged": "/Users/apple/React-Native/bank316/android/app/build/intermediates/merged_res/release/raw_src_assets_images_edit.svg.flat",
+        "source": "/Users/apple/React-Native/bank316/android/app/build/generated/res/react/release/raw/src_assets_images_edit.svg"
+    },
+    {
+        "merged": "/Users/apple/React-Native/bank316/android/app/build/intermediates/merged_res/release/raw_src_assets_images_group_720_4.svg.flat",
+        "source": "/Users/apple/React-Native/bank316/android/app/build/generated/res/react/release/raw/src_assets_images_group_720_4.svg"
+    },
+    {
+        "merged": "/Users/apple/React-Native/bank316/android/app/build/intermediates/merged_res/release/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/apple/React-Native/bank316/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/apple/React-Native/bank316/android/app/build/intermediates/merged_res/release/drawable-mdpi_src_assets_images_multiple_logo.png.flat",
+        "source": "/Users/apple/React-Native/bank316/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_images_multiple_logo.png"
+    },
+    {
+        "merged": "/Users/apple/React-Native/bank316/android/app/build/intermediates/merged_res/release/drawable-mdpi_node_modules_reactnavigation_elements_src_assets_backiconmask.png.flat",
+        "source": "/Users/apple/React-Native/bank316/android/app/build/generated/res/react/release/drawable-mdpi/node_modules_reactnavigation_elements_src_assets_backiconmask.png"
+    },
+    {
+        "merged": "/Users/apple/React-Native/bank316/android/app/build/intermediates/merged_res/release/raw_src_assets_images_withdraw.svg.flat",
+        "source": "/Users/apple/React-Native/bank316/android/app/build/generated/res/react/release/raw/src_assets_images_withdraw.svg"
+    },
+    {
+        "merged": "/Users/apple/React-Native/bank316/android/app/build/intermediates/merged_res/release/raw_src_assets_images_euro.svg.flat",
+        "source": "/Users/apple/React-Native/bank316/android/app/build/generated/res/react/release/raw/src_assets_images_euro.svg"
+    },
+    {
+        "merged": "/Users/apple/React-Native/bank316/android/app/build/intermediates/merged_res/release/drawable-mdpi_src_assets_images_petrol.png.flat",
+        "source": "/Users/apple/React-Native/bank316/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_images_petrol.png"
+    },
+    {
+        "merged": "/Users/apple/React-Native/bank316/android/app/build/intermediates/merged_res/release/raw_src_assets_images_316_yearly.svg.flat",
+        "source": "/Users/apple/React-Native/bank316/android/app/build/generated/res/react/release/raw/src_assets_images_316_yearly.svg"
+    },
+    {
+        "merged": "/Users/apple/React-Native/bank316/android/app/build/intermediates/merged_res/release/drawable-mdpi_src_assets_images_green_right.png.flat",
+        "source": "/Users/apple/React-Native/bank316/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_images_green_right.png"
+    },
+    {
+        "merged": "/Users/apple/React-Native/bank316/android/app/build/intermediates/merged_res/release/raw_src_assets_images_filter.svg.flat",
+        "source": "/Users/apple/React-Native/bank316/android/app/build/generated/res/react/release/raw/src_assets_images_filter.svg"
+    },
+    {
+        "merged": "/Users/apple/React-Native/bank316/android/app/build/intermediates/merged_res/release/raw_src_assets_images_cardremove.svg.flat",
+        "source": "/Users/apple/React-Native/bank316/android/app/build/generated/res/react/release/raw/src_assets_images_cardremove.svg"
+    },
+    {
+        "merged": "/Users/apple/React-Native/bank316/android/app/build/intermediates/merged_res/release/raw_src_assets_images_flag.svg.flat",
+        "source": "/Users/apple/React-Native/bank316/android/app/build/generated/res/react/release/raw/src_assets_images_flag.svg"
+    },
+    {
+        "merged": "/Users/apple/React-Native/bank316/android/app/build/intermediates/merged_res/release/drawable-mdpi_src_assets_images_female.png.flat",
+        "source": "/Users/apple/React-Native/bank316/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_images_female.png"
+    },
+    {
+        "merged": "/Users/apple/React-Native/bank316/android/app/build/intermediates/merged_res/release/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/apple/React-Native/bank316/android/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/apple/React-Native/bank316/android/app/build/intermediates/merged_res/release/raw_src_assets_images_group_720_5.svg.flat",
+        "source": "/Users/apple/React-Native/bank316/android/app/build/generated/res/react/release/raw/src_assets_images_group_720_5.svg"
+    },
+    {
+        "merged": "/Users/apple/React-Native/bank316/android/app/build/intermediates/merged_res/release/drawable-mdpi_src_assets_images_green_dash_card.png.flat",
+        "source": "/Users/apple/React-Native/bank316/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_images_green_dash_card.png"
+    },
+    {
+        "merged": "/Users/apple/React-Native/bank316/android/app/build/intermediates/merged_res/release/raw_src_assets_images_back_arrow.svg.flat",
+        "source": "/Users/apple/React-Native/bank316/android/app/build/generated/res/react/release/raw/src_assets_images_back_arrow.svg"
+    },
+    {
+        "merged": "/Users/apple/React-Native/bank316/android/app/build/intermediates/merged_res/release/drawable-xxhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "/Users/apple/React-Native/bank316/android/app/build/generated/res/react/release/drawable-xxhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "/Users/apple/React-Native/bank316/android/app/build/intermediates/merged_res/release/drawable-mdpi_src_assets_images_two_card.png.flat",
+        "source": "/Users/apple/React-Native/bank316/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_images_two_card.png"
+    },
+    {
+        "merged": "/Users/apple/React-Native/bank316/android/app/build/intermediates/merged_res/release/raw_src_assets_images_greencardsvg.svg.flat",
+        "source": "/Users/apple/React-Native/bank316/android/app/build/generated/res/react/release/raw/src_assets_images_greencardsvg.svg"
+    },
+    {
+        "merged": "/Users/apple/React-Native/bank316/android/app/build/intermediates/merged_res/release/raw_src_assets_images_radionull.svg.flat",
+        "source": "/Users/apple/React-Native/bank316/android/app/build/generated/res/react/release/raw/src_assets_images_radionull.svg"
+    },
+    {
+        "merged": "/Users/apple/React-Native/bank316/android/app/build/intermediates/merged_res/release/drawable-mdpi_src_assets_images_withdraw_success.png.flat",
+        "source": "/Users/apple/React-Native/bank316/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_images_withdraw_success.png"
+    },
+    {
+        "merged": "/Users/apple/React-Native/bank316/android/app/build/intermediates/merged_res/release/drawable-mdpi_src_assets_images_red_card.png.flat",
+        "source": "/Users/apple/React-Native/bank316/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_images_red_card.png"
+    },
+    {
+        "merged": "/Users/apple/React-Native/bank316/android/app/build/intermediates/merged_res/release/drawable-mdpi_src_assets_images_profile_dummy.png.flat",
+        "source": "/Users/apple/React-Native/bank316/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_images_profile_dummy.png"
+    },
+    {
+        "merged": "/Users/apple/React-Native/bank316/android/app/build/intermediates/merged_res/release/drawable-mdpi_src_assets_images_lock_circle.png.flat",
+        "source": "/Users/apple/React-Native/bank316/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_images_lock_circle.png"
+    },
+    {
+        "merged": "/Users/apple/React-Native/bank316/android/app/build/intermediates/merged_res/release/drawable-mdpi_src_assets_images_ticket_1.png.flat",
+        "source": "/Users/apple/React-Native/bank316/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_images_ticket_1.png"
+    },
+    {
+        "merged": "/Users/apple/React-Native/bank316/android/app/build/intermediates/merged_res/release/raw_src_assets_images_expense.svg.flat",
+        "source": "/Users/apple/React-Native/bank316/android/app/build/generated/res/react/release/raw/src_assets_images_expense.svg"
+    },
+    {
+        "merged": "/Users/apple/React-Native/bank316/android/app/build/intermediates/merged_res/release/raw_src_assets_images_group_720_2.svg.flat",
+        "source": "/Users/apple/React-Native/bank316/android/app/build/generated/res/react/release/raw/src_assets_images_group_720_2.svg"
+    },
+    {
+        "merged": "/Users/apple/React-Native/bank316/android/app/build/intermediates/merged_res/release/drawable-mdpi_src_assets_images_cristina.png.flat",
+        "source": "/Users/apple/React-Native/bank316/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_images_cristina.png"
+    },
+    {
+        "merged": "/Users/apple/React-Native/bank316/android/app/build/intermediates/merged_res/release/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/Users/apple/React-Native/bank316/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/apple/React-Native/bank316/android/app/build/intermediates/merged_res/release/raw_src_assets_images_lock2.svg.flat",
+        "source": "/Users/apple/React-Native/bank316/android/app/build/generated/res/react/release/raw/src_assets_images_lock2.svg"
+    },
+    {
+        "merged": "/Users/apple/React-Native/bank316/android/app/build/intermediates/merged_res/release/drawable-mdpi_src_assets_images_vector.png.flat",
+        "source": "/Users/apple/React-Native/bank316/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_images_vector.png"
+    },
+    {
+        "merged": "/Users/apple/React-Native/bank316/android/app/build/intermediates/merged_res/release/raw_src_assets_images_card2.svg.flat",
+        "source": "/Users/apple/React-Native/bank316/android/app/build/generated/res/react/release/raw/src_assets_images_card2.svg"
+    },
+    {
+        "merged": "/Users/apple/React-Native/bank316/android/app/build/intermediates/merged_res/release/drawable-mdpi_src_assets_images_recieved.png.flat",
+        "source": "/Users/apple/React-Native/bank316/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_images_recieved.png"
+    },
+    {
+        "merged": "/Users/apple/React-Native/bank316/android/app/build/intermediates/merged_res/release/raw_src_assets_images_group_720.svg.flat",
+        "source": "/Users/apple/React-Native/bank316/android/app/build/generated/res/react/release/raw/src_assets_images_group_720.svg"
+    },
+    {
+        "merged": "/Users/apple/React-Native/bank316/android/app/build/intermediates/merged_res/release/raw_src_assets_images_walletmoney.svg.flat",
+        "source": "/Users/apple/React-Native/bank316/android/app/build/generated/res/react/release/raw/src_assets_images_walletmoney.svg"
+    },
+    {
+        "merged": "/Users/apple/React-Native/bank316/android/app/build/intermediates/merged_res/release/drawable-mdpi_src_assets_images_arrow.png.flat",
+        "source": "/Users/apple/React-Native/bank316/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_images_arrow.png"
+    },
+    {
+        "merged": "/Users/apple/React-Native/bank316/android/app/build/intermediates/merged_res/release/drawable-mdpi_src_assets_images_edward.png.flat",
+        "source": "/Users/apple/React-Native/bank316/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_images_edward.png"
+    },
+    {
+        "merged": "/Users/apple/React-Native/bank316/android/app/build/intermediates/merged_res/release/raw_src_assets_images_export.svg.flat",
+        "source": "/Users/apple/React-Native/bank316/android/app/build/generated/res/react/release/raw/src_assets_images_export.svg"
+    },
+    {
+        "merged": "/Users/apple/React-Native/bank316/android/app/build/intermediates/merged_res/release/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/Users/apple/React-Native/bank316/android/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/apple/React-Native/bank316/android/app/build/intermediates/merged_res/release/raw_src_assets_images_view_attach.svg.flat",
+        "source": "/Users/apple/React-Native/bank316/android/app/build/generated/res/react/release/raw/src_assets_images_view_attach.svg"
+    },
+    {
+        "merged": "/Users/apple/React-Native/bank316/android/app/build/intermediates/merged_res/release/drawable-mdpi_src_assets_images_blue_card.png.flat",
+        "source": "/Users/apple/React-Native/bank316/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_images_blue_card.png"
+    },
+    {
+        "merged": "/Users/apple/React-Native/bank316/android/app/build/intermediates/merged_res/release/drawable-mdpi_src_assets_images_group_684_1.png.flat",
+        "source": "/Users/apple/React-Native/bank316/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_images_group_684_1.png"
+    },
+    {
+        "merged": "/Users/apple/React-Native/bank316/android/app/build/intermediates/merged_res/release/raw_src_assets_images_modal_up_arrow.svg.flat",
+        "source": "/Users/apple/React-Native/bank316/android/app/build/generated/res/react/release/raw/src_assets_images_modal_up_arrow.svg"
+    },
+    {
+        "merged": "/Users/apple/React-Native/bank316/android/app/build/intermediates/merged_res/release/raw_src_assets_images_send.svg.flat",
+        "source": "/Users/apple/React-Native/bank316/android/app/build/generated/res/react/release/raw/src_assets_images_send.svg"
+    },
+    {
+        "merged": "/Users/apple/React-Native/bank316/android/app/build/intermediates/merged_res/release/drawable-mdpi_src_assets_images_flag.png.flat",
+        "source": "/Users/apple/React-Native/bank316/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_images_flag.png"
+    },
+    {
+        "merged": "/Users/apple/React-Native/bank316/android/app/build/intermediates/merged_res/release/raw_src_assets_images_three_dot.svg.flat",
+        "source": "/Users/apple/React-Native/bank316/android/app/build/generated/res/react/release/raw/src_assets_images_three_dot.svg"
+    },
+    {
+        "merged": "/Users/apple/React-Native/bank316/android/app/build/intermediates/merged_res/release/drawable-mdpi_src_assets_images_light_blue_card.png.flat",
+        "source": "/Users/apple/React-Native/bank316/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_images_light_blue_card.png"
+    }
+]
